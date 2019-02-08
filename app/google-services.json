@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "564954684280",
+    "firebase_url": "https://rockpaperapp-ae484.firebaseio.com",
+    "project_id": "rockpaperapp-ae484",
+    "storage_bucket": "rockpaperapp-ae484.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:564954684280:android:1f03a2c0bdc7a1c0",
+        "android_client_info": {
+          "package_name": "com.example.renu.rockpaper"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "564954684280-bukpi7k6ib6g38202jan9ag7acjb2qoa.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.renu.rockpaper",
+            "certificate_hash": "5ba22c107c5451d40a3e76db52076dbaaf54166f"
+          }
+        },
+        {
+          "client_id": "564954684280-eob4nc3cuprifms902la6rl24flbh9e1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBOTfP55bVgENtvApGQKFQ_TMOvDGkvXu4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "564954684280-eob4nc3cuprifms902la6rl24flbh9e1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
